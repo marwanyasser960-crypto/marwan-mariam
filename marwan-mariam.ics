@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marwan & Mariam//Engagement//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:engagement-2026-12-12@marwan-mariam
+DTSTAMP:20261119T000000Z
+DTSTART:20261212T173000Z
+DTEND:20261212T203000Z
+SUMMARY:Marwan & Mariam's Engagement 💍
+LOCATION:Leur Nile – Armada\, Corniche El Maadi\, Cairo
+DESCRIPTION:We can't wait to celebrate with you!\nMap: https://maps.app.goo.gl/71keyMHrBKihQ1WNA?g_st=ic
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Marwan & Mariam's engagement at 7:30 PM
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today at 7:30 PM: Marwan & Mariam's engagement
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
